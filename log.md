@@ -20,3 +20,10 @@
 
 **Link to work:** [Random Quote Machine](http://codepen.io/cgorton/full/YNzxMo/)
 
+### Day 3: Jan. 5th, 2017 
+
+
+**Today's Progress**: still Unable to add Twitter button.
+
+**Thoughts:** Internet connection was awful today so I wasn't able to play around with the code as much as I wanted to. Reviewed Javascript basics on Udacity. 
+**Link to work:** [Random Quote Machine](http://codepen.io/cgorton/full/YNzxMo/)
