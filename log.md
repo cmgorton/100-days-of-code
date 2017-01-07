@@ -27,3 +27,12 @@
 
 **Thoughts:** Internet connection was awful today so I wasn't able to play around with the code as much as I wanted to. Reviewed Javascript basics on Udacity. 
 **Link to work:** [Random Quote Machine](http://codepen.io/cgorton/full/YNzxMo/)
+
+### Day 4 & 5: Jan. 6th & 7th 2017 
+
+
+**Today's Progress**: Began reworking my tribute page and studyign and playign around with CSS3 animations and pictures.
+
+**Thoughts:** Need to better focus in on a specific project to do for the next few days. I am going to try out some pure CSS pictures bcause I am still having trouble with CSS positions and I think this will help.
+**Link to work:** [CSS pictures](http://codepen.io/cgorton/pen/XpbxXe)
+
