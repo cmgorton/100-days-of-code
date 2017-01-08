@@ -36,3 +36,11 @@
 **Thoughts:** Need to better focus in on a specific project to do for the next few days. I am going to try out some pure CSS pictures bcause I am still having trouble with CSS positions and I think this will help.
 **Link to work:** [CSS pictures](http://codepen.io/cgorton/pen/XpbxXe)
 
+### Day 6: Jan. 8th 2017 
+
+
+**Today's Progress**: Continued to play around with creating pictures with pure CSS. Read chapter 2 in You Don't Know JS Up and Going.
+Still unable to add working Twitter button to my Random Quote Machine.
+
+**Thoughts:** Still having trouble understanding the Parent/child inheritance in CSS.
+**Link to work:** [CSS pictures](http://codepen.io/cgorton/pen/qROEZq)
